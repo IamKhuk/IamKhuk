@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IamKhuk&color=brightgreen" alt="Khusan Khukumov"/> </p>
 
 - 👋 Hi, I’m Khusan
-- I am Middle Flutter Developer
+- I am Flutter Developer
 - 📫 How to reach me, email: khukumovkhusan@gmail.com
 
 ### Me on social networks:
