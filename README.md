@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Khusan
-- I am Flutter Developer
+- I am QA/Software Engineer
 - 📫 How to reach me, email: khukumovkhusan@gmail.com
 
 ### Me on social networks:
 
-[instagram]: https://www.instagram.com/iam.khuk_
+[instagram]: https://www.instagram.com/iamkhuk
 [facebook]: https://www.facebook.com/khusan.khukumov
 [telegram]: https://t.me/IamTheOne01
 
